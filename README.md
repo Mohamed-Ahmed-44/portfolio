@@ -1,8 +1,6 @@
 # Mohamed Ahmed Galal
 
-<p align="center">
-  <img src="assets/images/profile_banner.png" alt="Engineering Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <b>Electronics & Communications Engineering Undergraduate</b><br>
