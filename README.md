@@ -1,7 +1,5 @@
 # Mohamed Ahmed Galal
 
-
-
 <p align="center">
   <b>Electronics & Communications Engineering Undergraduate</b><br>
   Egypt-Japan University of Science and Technology (E-JUST) | CGPA: 3.44<br>
@@ -36,12 +34,11 @@ I am an Electronics and Communications Engineering student at the **Egypt-Japan 
 
 ```
 ├── assets/
-│   ├── images/                # Architecture diagrams, waveform snapshots, certificates
 │   └── docs/                  # Curriculum Vitae & supplementary documentation
 ├── projects/
 │   ├── 01-synchronous-fifo-and-digital-design/
 │   │   ├── rtl/               # Verilog / SystemVerilog hardware modules (NTI labs & final project)
-│   │   └── docs/              # FIFO block diagram & architecture spec PDF
+│   │   └── docs/              # Architecture specification PDF
 │   ├── 02-iot-solar-monitoring-system/
 │   │   ├── firmware/          # ESP32 C++ firmware with WiFi and Firebase integration
 │   │   └── analysis/          # Sensor data acquisition, MATLAB analysis, and reports
@@ -59,10 +56,6 @@ I am an Electronics and Communications Engineering student at the **Egypt-Japan 
 ### 1. Synchronous FIFO Memory & Verilog Digital Design Suite
 > **NTI (National Telecommunication Institute) Training & Capstone Project**  
 > *Skills: Verilog HDL, SystemVerilog Verification, Digital Logic Design, FSM, Synthesis*
-
-<p align="center">
-  <img src="assets/images/fifo_architecture.png" alt="Synchronous FIFO Architecture" width="85%" />
-</p>
 
 * **Synchronous FIFO Core** ([`synchronous_fifo_top.v`](projects/01-synchronous-fifo-and-digital-design/rtl/synchronous_fifo_top.v)):
   * Configurable depth and width parameterization.

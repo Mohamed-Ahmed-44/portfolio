@@ -7,10 +7,6 @@ This repository contains RTL hardware designs and verification testbenches devel
 
 ## 🏗️ Architecture: Synchronous FIFO Memory
 
-<p align="center">
-  <img src="docs/fifo_architecture.png" alt="FIFO Architecture Diagram" width="80%">
-</p>
-
 The core capstone of this module is a parameterizable **Synchronous First-In First-Out (FIFO) Buffer** designed in synthesizable Verilog HDL.
 
 ### Key Features:
