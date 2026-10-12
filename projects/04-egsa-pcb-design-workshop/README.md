@@ -3,9 +3,7 @@
 ## 📌 Overview
 An intensive engineering workshop conducted at the **Egyptian Space Agency (EgSA)** (New Cairo, Egypt), focusing on end-to-end design, routing, testing, and manufacturing standards for high-reliability printed circuit boards (PCBs).
 
-<p align="center">
-  <img src="../../assets/images/certificate.jpeg" alt="EgSA Training Certificate" width="80%">
-</p>
+
 
 ---
 
